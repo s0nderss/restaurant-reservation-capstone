@@ -1,8 +1,11 @@
 {
   "name": "starter-restaurant-reservation",
   "version": "1.0.0",
-  "description": "Starter project restaurant reservation system",
+  "description": "finished project restaurant reservation system",
   "private": true,
+  "engines": {
+    "node": "16.0.0"
+  }
   "repository": {
     "type": "git",
     "url": "https://github.com/Thinkful-Ed/starter-restaurant-reservation"
